@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NhatLong_LockPattern</string>
+
+    <!-- button -->
+    <string name="stage_button_confirm">CONFIRM</string>
+    <string name="stage_button_next">NEXT</string>
+    <string name="clear_button">Clear</string>
+
+    <!-- textView -->
+    <string name="title">Đặt khóa màn hình</string>
+    <string name="sub_title">Vì vấn đề bảo mật, Hãy đặt khóa</string>
+    <string name="initial_message_first_stage">Vẽ một hình để mở khóa</string>
+    <string name="initial_message_second_stage">"Vẽ lại để xác nhận"</string>
+    <string name="started_message">Bỏ chạm để hoàn thành hình vẽ</string>
+    <string name="success_message_first_stage">Hình vẽ đã được xác nhận</string>
+    <string name="success_message_second_stage">Hình vẽ màn hình của bạn</string>
+    <string name="error_message_first_stage">Phải liên kết ít nhất 4 chấm. Hãy thử lại.</string>
+    <string name="error_message_second_stage">Sai hình vẽ</string>
+
+    <!-- dialog -->
+    <string name="alert_dialog_confirm_message">Chúc mừng! Hình vẽ bảo mật của bạn đã được tạo.</string>
+    <string name="alert_dialog_positive_button">Okay!</string>
+</resources>
